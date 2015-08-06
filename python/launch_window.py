@@ -12,3 +12,5 @@ def window_open(epoch, duration_days=30):
 # rename var 17
 
 # doc touch 19
+
+# refactor 20
