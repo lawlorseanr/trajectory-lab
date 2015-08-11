@@ -16,3 +16,5 @@ def window_open(epoch, duration_days=30):
 # refactor 20
 
 # cleanup 21
+
+# refactor 24
