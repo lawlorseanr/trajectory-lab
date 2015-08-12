@@ -26,3 +26,5 @@ def window_open(epoch, duration_days=30):
 # add comment 35
 
 # note update 37
+
+# rename var 40
