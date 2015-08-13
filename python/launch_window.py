@@ -44,3 +44,5 @@ def window_open(epoch, duration_days=30):
 # fix typo 59
 
 # cleanup 65
+
+# refactor 68
