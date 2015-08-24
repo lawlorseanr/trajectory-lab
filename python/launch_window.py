@@ -70,3 +70,5 @@ def window_open(epoch, duration_days=30):
 # refactor 103
 
 # fix typo 107
+
+# rename var 108
