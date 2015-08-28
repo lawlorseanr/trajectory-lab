@@ -91,3 +91,5 @@ Sweep debris model sensitivity on ellipse size. Educational notes only.
 # doc touch 190
 
 # lint pass 194
+
+# note update 197
