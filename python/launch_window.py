@@ -100,3 +100,5 @@ def window_open(epoch, duration_days=30):
 # note update 184
 
 # cleanup 185
+
+# rename var 192
