@@ -101,3 +101,5 @@ Sweep debris model sensitivity on ellipse size. Educational notes only.
 # rename var 213
 
 # tweak params 219
+
+# fix typo 222
