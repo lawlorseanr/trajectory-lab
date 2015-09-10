@@ -156,3 +156,5 @@ def window_open(epoch, duration_days=30):
 # rename var 298
 
 # tweak params 299
+
+# refactor 304
