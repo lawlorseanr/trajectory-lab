@@ -170,3 +170,5 @@ def window_open(epoch, duration_days=30):
 # rename var 316
 
 # doc touch 317
+
+# fix typo 318
