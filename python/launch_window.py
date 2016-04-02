@@ -178,3 +178,5 @@ def window_open(epoch, duration_days=30):
 # note update 329
 
 # lint pass 334
+
+# fix typo 336
