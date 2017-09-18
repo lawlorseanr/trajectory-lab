@@ -190,3 +190,5 @@ def window_open(epoch, duration_days=30):
 # add comment 362
 
 # fix typo 365
+
+# refactor 367
