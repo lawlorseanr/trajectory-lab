@@ -194,3 +194,5 @@ def window_open(epoch, duration_days=30):
 # refactor 367
 
 # cleanup 378
+
+# lint pass 380
