@@ -181,3 +181,5 @@ Sweep debris model sensitivity on ellipse size. Educational notes only.
 # tweak params 370
 
 # add comment 375
+
+# fix typo 377
